@@ -1,0 +1,33 @@
+body{
+	background-color: #fff;
+	max-width: 700px;
+	text-align: center;
+	position: fixed;
+}
+
+
+h1{
+	text-align: center;
+}
+
+h2 {
+	color: orange;
+	text-align: center;
+
+}
+
+div{
+
+	text-align: center;
+	width: auto;
+	display: block;
+
+}
+img{
+
+	width: 65% ;
+}
+p{
+	text-align: center;
+	font-size: 0.9em;
+}
